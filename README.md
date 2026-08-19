@@ -14,7 +14,7 @@
 
 ---
 
-# 👋 Hey, I'm Benjamin
+# Hey, I'm Benjamin
 
 - Machine Learning Engineer
 - AI Safety Advocate
