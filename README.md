@@ -58,3 +58,63 @@ I'm a Machine Learning Engineer with 5+ years of experience building and deployi
 ---
 
 ## AI & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge" />
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,pinecone&perline=6" />
+</p>
+
+---
+
+## Cloud & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,linux,nginx,git,githubactions,rabbitmq,celery&perline=10" />
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/CI/CD-Automation-blue?style=for-the-badge&logo=githubactions" />
+
+<img src="https://img.shields.io/badge/Vercel-Deployment-black?style=for-the-badge&logo=vercel" />
+
+<img src="https://img.shields.io/badge/Netlify-Hosting-00C7B7?style=for-the-badge&logo=netlify" />
+
+</p>
+
+---
+
+## Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,cursor,idea,pycharm,postman&perline=7" />
+</p>
+
+---
