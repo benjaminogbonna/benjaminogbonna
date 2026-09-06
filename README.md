@@ -127,3 +127,105 @@ I'm a Machine Learning Engineer with 5+ years of experience building and deployi
 - Real-Time Systems
 - Open Source Projects
 
+
+---
+
+# 📦 Open Source Packages
+
+### 🛠️ Ometer Programming Language
+
+A programming language compiler and virtual machine built with TypeScript.
+
+- Custom Lexer & Parser
+- AST Generation
+- Bytecode Compiler
+- Virtual Machine Runtime
+- CLI Support
+
+🔗 NPM: https://www.npmjs.com/package/@wealthometer/ometer
+
+---
+
+### 🎨 FlowCSS
+
+A modern CSS framework with 40+ animations, glassmorphism, 3D transforms, pre-built components, and dark mode — zero dependencies, zero build step.
+
+- 40+ Built-in Animations
+- Glassmorphism Utilities
+- 3D Transform Effects
+- Pre-built Components
+- Auto-Responsive Grid
+- Dark Mode Support
+
+🔗 NPM: https://www.npmjs.com/package/flowcss-style
+
+---
+# GitHub Analytics
+
+<!-- <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=benjaminogbonna&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjaminogbonna&layout=compact&theme=tokyonight&langs_count=12" />
+
+</div> -->
+
+<br>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=benjaminogbonna&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<!-- <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=benjaminogbonna&theme=tokyo-night" />
+
+</div> -->
+
+---
+
+<!-- # GitHub Trophies -->
+
+<!-- <div align="center">
+  <img src="https://github-trophies.vercel.app/?username=benjaminogbonna&margin-w=15&margin-h=15&theme=darkhub" alt="trophy" />
+  
+</div>
+
+</div> -->
+
+<!-- --- -->
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://x.com/benjamin_kachi">
+<img src="https://img.shields.io/badge/X-@benjamin_kachi-black?style=for-the-badge&logo=x" />
+</a>
+
+<a href="https://www.linkedin.com/in/benjamin-ogbonna/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<!-- <a href="mailto:@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Let's_Talk-red?style=for-the-badge&logo=gmail" />
+</a> -->
+
+</div>
+
+---
+
+<!-- <div align="center">
+
+![snake gif](https://github.com/Wealthometer/benjaminogbonna/blob/output/github-snake-dark.svg)
+
+</div> -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8A2BE2,100:0d0d0d&height=120&section=footer" />
+
+</div>
