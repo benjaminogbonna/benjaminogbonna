@@ -130,34 +130,22 @@ I'm a Machine Learning Engineer with 5+ years of experience building and deployi
 
 ---
 
-# 📦 Open Source Packages
+# Open Source Projects
 
-### 🛠️ Ometer Programming Language
+### Nigerian Accented Voice Model
 
-A programming language compiler and virtual machine built with TypeScript.
+Fine-tuned and open sourced a production grade text-to-speech model on Nigerian accented English, improving voice AI accessibility for 200M+ Anglophone Africans historically underrepresented in speech datasets.
 
-- Custom Lexer & Parser
-- AST Generation
-- Bytecode Compiler
-- Virtual Machine Runtime
-- CLI Support
 
-🔗 NPM: https://www.npmjs.com/package/@wealthometer/ometer
+Hugging Face: https://huggingface.co/benjaminogbonna
 
 ---
 
-### 🎨 FlowCSS
+### Nigerian Common Voice Dataset
 
-A modern CSS framework with 40+ animations, glassmorphism, 3D transforms, pre-built components, and dark mode — zero dependencies, zero build step.
+Led collection and open sourcing of a 158-hour multilingual speech dataset spanning English, Hausa, Igbo, and Yoruba; fine-tuned OpenAI Whisper to enable transcription for Igbo, a previously unsupported language
 
-- 40+ Built-in Animations
-- Glassmorphism Utilities
-- 3D Transform Effects
-- Pre-built Components
-- Auto-Responsive Grid
-- Dark Mode Support
-
-🔗 NPM: https://www.npmjs.com/package/flowcss-style
+Hugging Face: https://huggingface.co/benjaminogbonna
 
 ---
 # GitHub Analytics
@@ -203,7 +191,7 @@ A modern CSS framework with 40+ animations, glassmorphism, 3D transforms, pre-bu
 <div align="center">
 
 <a href="https://x.com/benjamin_kachi">
-<img src="https://img.shields.io/badge/X-@benjamin_kachi-black?style=for-the-badge&logo=x" />
+<img src="https://img.shields.io/badge/@benjamin_kachi-black?style=for-the-badge&logo=x" />
 </a>
 
 <a href="https://www.linkedin.com/in/benjamin-ogbonna/">
