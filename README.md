@@ -114,7 +114,16 @@ I'm a Machine Learning Engineer with 5+ years of experience building and deployi
 ## Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,cursor,idea,pycharm,postman&perline=7" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,cursor&perline=7" />
 </p>
 
 ---
+
+# What I Build
+
+- AI Application/Products
+- Backend APIs
+- SaaS Platforms
+- Real-Time Systems
+- Open Source Projects
+
